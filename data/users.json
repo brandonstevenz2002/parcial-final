@@ -1,0 +1,44 @@
+[
+  {
+    "firstName": "Juan",
+    "lastName": "Pérez",
+    "identification": "123456789",
+    "email": "juan.perez@email.com",
+    "role": "Admin"
+  },
+  {
+    "firstName": "Juani",
+    "lastName": "Péreza",
+    "identification": "112345678",
+    "email": "juan.perez1@email.com",
+    "role": "Usuario"
+  },
+  {
+    "firstName": "brandon",
+    "lastName": "vargas",
+    "identification": "123456778",
+    "email": "brandon.vargas@email.com",
+    "role": "usuario"
+  },
+  {
+    "firstName": "brandon1",
+    "lastName": "vargas1",
+    "identification": "123456779",
+    "email": "brandon.vargas@email.com",
+    "role": "Admin"
+  },
+  {
+    "firstName": "camilo",
+    "lastName": "vera",
+    "identification": "194657894",
+    "email": "camilo@email.com",
+    "role": "admin"
+  },
+  {
+    "firstName": "michelle ",
+    "lastName": "vargas",
+    "identification": "356789765",
+    "email": "michelle@email.com",
+    "role": "usuario"
+  }
+]
